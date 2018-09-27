@@ -9,6 +9,7 @@ o)平均值 = ${sequence.average()}
 
 class Sequence {
   constructor(input) {
+  sequence = {};
   sequence = input;  
   }
 
